@@ -3,19 +3,15 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.ixiaopu.com:tk/bos.git" />
+          <option name="url" value="https://git.oschina.net/dfdsdfd/spring-data-jpa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.ixiaopu.com/tk/bos.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://git.oschina.net" />
+          <option name="userName" value="2567837541@qq.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.ixiaopu.com:tk/restapi.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.ixiaopu.com/tk/restapi.git" />
+          <option name="url" value="https://github.com/fireshort/spring-boot-quickstart.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -23,15 +19,18 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.ixiaopu.com:ouer-cows/cows-spider.git" />
+          <option name="url" value="https://gitee.com/lionsoul/tankwar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.ixiaopu.com:ouer-cows/cow-robots.git" />
+          <option name="url" value="git@gitlab.ixiaopu.com:tk/bos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IdeaProjects" />
+    <option name="cloneParentDir" value="E:\ouer\tankwar" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
   </component>
 </application>

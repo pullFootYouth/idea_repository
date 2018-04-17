@@ -14,7 +14,20 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" />
+      <artifact name="Oracle" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-12.1.0.2.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-12.1.0.2.jar</url>
+        </library>
+      </artifact>
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
@@ -34,10 +47,6 @@
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
@@ -52,12 +61,10 @@
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="db2">
       <artifact name="DB2" use="true" />
@@ -73,11 +80,10 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.45" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.44" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
