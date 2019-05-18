@@ -451,7 +451,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="0" />
+        <option name="ERROR_STRIPE_COLOR" value="dd6a7e" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -524,7 +524,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="0" />
+        <option name="ERROR_STRIPE_COLOR" value="dd6a7e" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -594,13 +594,13 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="0" />
+        <option name="ERROR_STRIPE_COLOR" value="dd6a7e" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="0" />
+        <option name="ERROR_STRIPE_COLOR" value="dd6a7e" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
