@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ribbon" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="hystrix" type="PLAIN_TEXT" />
       <mapping pattern="spring-cloud-feign" type="PLAIN_TEXT" />
       <mapping ext="propertry" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
