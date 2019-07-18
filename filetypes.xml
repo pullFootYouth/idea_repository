@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".attach_pid11064" type="PLAIN_TEXT" />
       <mapping pattern="ribbon" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="hystrix" type="PLAIN_TEXT" />
