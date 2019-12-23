@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mybatis-conf.xml" type="PLAIN_TEXT" />
       <mapping pattern="ribbon" type="PLAIN_TEXT" />
       <mapping pattern="spring-cloud-feign" type="PLAIN_TEXT" />
       <mapping pattern="RequestMappingHandlerMapping" type="PLAIN_TEXT" />
@@ -11,6 +12,7 @@
       <mapping ext="propertry" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="xml'" type="PLAIN_TEXT" />
+      <mapping pattern="mybatis-conf" type="XML" />
     </extensionMap>
   </component>
 </application>
