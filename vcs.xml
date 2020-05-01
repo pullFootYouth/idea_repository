@@ -30,6 +30,10 @@
           <option name="url" value="https://gitee.com/macrozheng/mall-swarm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://111.0.91.70:8090" />
+          <option name="userName" value="sunyukun@90shiguang.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/all_projects/IdeaProjects" />
