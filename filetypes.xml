@@ -11,6 +11,7 @@
       <mapping pattern="hystrix" type="PLAIN_TEXT" />
       <mapping ext="propertry" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="txt " type="PLAIN_TEXT" />
       <mapping ext="xml'" type="PLAIN_TEXT" />
       <mapping pattern="mybatis-conf" type="XML" />
     </extensionMap>
