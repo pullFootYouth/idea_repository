@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="mybatis-conf.xml" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid11064" type="PLAIN_TEXT" />
       <mapping pattern="ribbon" type="PLAIN_TEXT" />
       <mapping pattern="spring-cloud-feign" type="PLAIN_TEXT" />
       <mapping pattern="RequestMappingHandlerMapping" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="oauth2-client" type="PLAIN_TEXT" />
-      <mapping pattern=".attach_pid11064" type="PLAIN_TEXT" />
       <mapping pattern="hystrix" type="PLAIN_TEXT" />
       <mapping ext="propertry" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
